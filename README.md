@@ -55,12 +55,12 @@
   <tr>
     <td align="center">3주차</td>
     <td align="center">21/09/06 ~ 21/09/12</td>
-    <td></td>
+    <td>동작 인식 모델 선정 및 Node 설계</td>
   </tr>
   <tr>
     <td align="center">4주차	</td>
     <td align="center">21/09/13 ~ 21/09/19</td>
-    <td></td>
+    <td>Body, Hands Node 개발</td>
   </tr>
   <tr>
     <td align="center">5주차</td>
