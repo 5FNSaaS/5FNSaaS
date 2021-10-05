@@ -60,22 +60,22 @@
   <tr>
     <td align="center">4주차	</td>
     <td align="center">21/09/13 ~ 21/09/19</td>
-    <td>Body, Hands Node 개발</td>
+    <td>Body, Hands Node 개발 - detection 및 similarity 구현</td>
   </tr>
   <tr>
     <td align="center">5주차</td>
     <td align="center">21/09/20 ~ 21/09/26</td>
-    <td></td>
+    <td>Things 환경 세팅 및 Body/Hands Node 개발</td>
   </tr>
   <tr>
     <td align="center">6주차</td>
     <td align="center">21/09/27 ~ 21/10/03</td>
-    <td></td>
+    <td>Things를 활용한 Flow 테스트, Bixby 발화 테스트, Bug fix</td>
   </tr>
   <tr>
     <td align="center">7주차</td>
     <td align="center">21/10/04 ~ 21/10/08</td>
-    <td></td>
+    <td>Bug fix 및 npm/node-red 배포, 최종 발표 진행</td>
   </tr>
 </table>
 
